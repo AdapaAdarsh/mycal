@@ -1,7 +1,4 @@
-
-
-
-
+#python calculator
 
 def display_operations():
     print("Select operation:")
